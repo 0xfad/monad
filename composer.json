@@ -1,0 +1,8 @@
+{
+    "name": "heraldoffire/monad",
+    "description": "Monad is an experimental, ultra-lightweight PHP micro-framework contained in a single index.php. It leverages metaprogramming and PHP magic methods to offer an extremely smooth development experience, focused on modern Server-Side Rendering (SSR) and natively integrated with HTMX.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [],
+    "require": {}
+}
